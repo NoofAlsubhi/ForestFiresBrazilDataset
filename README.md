@@ -6,7 +6,7 @@ In this exploratory data analysis, we'll explore the forest fires in Brazil, foc
 We will analyse their frequency, location and other parameters where increment or decrement.
 We will work on different columns to get good insights from dataset. Also we will find out insights with the help of different graphs.
 
-Working on the following Raw Datset : [kaggle](/kaggle/input/forest-fires-in-brazil/amazon.csv)
+Working on the following Datset : [kaggle]([/kaggle/input/forest-fires-in-brazil/amazon.csv](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil/data))
 
 ### Conclusions
 So,far we had perform lots of operations over the dataset to extract  some very useful information from it. If, we have to conclude the dataset in few lines, then we can say that:
