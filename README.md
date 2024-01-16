@@ -13,9 +13,6 @@ So,far I had perform lots of operations over the dataset to extract  some very u
 * The maximum number of fires were reported in July. 
 * In 2003 the maximum number of fires were reported.
 * Mato Grosso has the highest number of fires among all states, followed by Paraíba and São Paulo.
-* 30650.129 number of fires were reported in Amazonas state.
-* 2003 was the maximum number of fires were reported in Amazonas state.
-
 
 
 
